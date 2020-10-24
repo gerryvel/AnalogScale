@@ -13,4 +13,4 @@ ErrorInputValue = 1,
 ErrorOutputValue
 };
 
-float analogInScale(int AnalogIN, int InputOGR, int InputUGR, float OutputOGR, float OutputUGR, int& Error=0);
+float analogInScale(int AnalogIN, int InputOGR, int InputUGR, float OutputOGR, float OutputUGR, int& Error);
