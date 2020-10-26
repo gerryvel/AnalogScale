@@ -1,0 +1,9 @@
+name=AnalogSCALE_esp32
+version=1.0.0
+author=Gerry Sebb
+maintainer=astec gmbh 
+sentence=Fuction for analog inputs
+paragraph=Physical scale
+category=Analag
+url=
+architectures=*
