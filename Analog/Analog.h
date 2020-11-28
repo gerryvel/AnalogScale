@@ -1,4 +1,6 @@
 /*
+Analog.h
+
 Analog input scaling V1.0
 
 Input OGR  / UGR : Values from Input Device e.g. 0-4096
