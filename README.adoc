@@ -1,4 +1,4 @@
-# AnalogScale
+# AnalogScale_esp32
 
 This is a code for scaling analog input to physikaly value.
 E.g. PinInput value ist from 0-4092 and i need the Value 0-150°C.
