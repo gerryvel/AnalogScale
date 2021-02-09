@@ -1,8 +1,8 @@
 /*
 Analog.h
 Analog input scaling V1.0
-Input OGR  / UGR : Values from Input Device e.g. 0-4096
-Output OGR / UGR : Values physical e.g. 0-150°C
+Input UGR / OGR : Values from Input Device e.g. 0-4096 
+Output UGR / OGR : Values physical e.g. 0-150°C
 G. Sebb, 24.10.2020
 */
 
